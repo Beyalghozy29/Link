@@ -19,7 +19,7 @@ body{
 
 .logo
 {
-    width: 190px;
+    width: 170px;
 }
 
 a.featured:hover,a:hover
@@ -31,11 +31,11 @@ a.featured:hover,a:hover
     a
     {   display:block;
         max-width:420px;
-        margin:25px auto 25px;
+        margin:23px auto 23px;
         padding:20px 20px;
         font-size:.85rem;
         color:#fff;
-        border:2px solid #fff;
+        border:1px solid #fff;
         text-decoration:none;
         transition:all .2s ease-in-out
     }
